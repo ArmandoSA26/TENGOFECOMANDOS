@@ -1,6 +1,12 @@
 {
+  "name": "tengofecomandos",
+  "version": "1.0.0",
+  "main": "Iniciar.js",
+  "scripts": {
+    "start": "node Iniciar.js"
+  },
   "dependencies": {
-    "discord.js": "^14.25.1",
-    "dotenv": "^17.2.3"
+    "discord.js": "^14.0.0",
+    "dotenv": "^16.0.0"
   }
 }
